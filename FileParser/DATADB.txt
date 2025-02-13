@@ -1,0 +1,89 @@
+ID: 101
+NAME: Alice Smith
+POSITION: Software Engineer
+DEPARTMENT: IT
+SALARY: 80000
+PROJECTS: Project A, Project B
+CERTIFICATIONS: AWS, Docker
+SKILLS: C#, .NET, Azure
+
+ID: 102
+NAME: Bob Brown
+POSITION: Data Analyst
+DEPARTMENT: Marketing
+SALARY: 65000
+PROJECTS: Marketing Strategy, Campaign X
+CERTIFICATIONS: SQL, Excel
+SKILLS: Excel, Power BI
+
+ID: 103
+NAME: Charlie Davis
+POSITION: Product Manager
+DEPARTMENT: Product
+SALARY: 95000
+PROJECTS: Product Launch, Roadmap Planning
+CERTIFICATIONS: Scrum Master
+SKILLS: JIRA, Scrum, Agile
+
+ID: 104
+NAME: Diana White
+POSITION: UX Designer
+DEPARTMENT: Design
+SALARY: 75000
+PROJECTS: Website Redesign, Mobile App Design
+CERTIFICATIONS: Figma, Adobe XD
+SKILLS: HTML, CSS, UX Research, Figma
+
+ID: 105
+NAME: Edward Black
+POSITION: System Administrator
+DEPARTMENT: IT
+SALARY: 70000
+PROJECTS: Server Migration, Network Optimization
+CERTIFICATIONS: Cisco, Linux
+SKILLS: Linux, Networking, Virtualization
+
+ID: 106
+NAME: Fiona Green
+POSITION: Marketing Manager
+DEPARTMENT: Marketing
+SALARY: 85000
+PROJECTS: Digital Campaigns, Brand Awareness
+CERTIFICATIONS: Google Analytics, SEO
+SKILLS: SEO, Google Ads, Marketing Strategy
+
+ID: 107
+NAME: George King
+POSITION: Senior Developer
+DEPARTMENT: IT
+SALARY: 100000
+PROJECTS: Cloud Infrastructure, DevOps Pipeline
+CERTIFICATIONS: Azure, Kubernetes
+SKILLS: C#, ASP.NET, Kubernetes, Azure
+
+ID: 108
+NAME: Hannah Gray
+POSITION: Business Analyst
+DEPARTMENT: Business Operations
+SALARY: 70000
+PROJECTS: Process Improvement, Data Analysis
+CERTIFICATIONS: Six Sigma, Lean Management
+SKILLS: SQL, Excel, Data Modeling
+
+ID: 109
+NAME: Ian Purple
+POSITION: Data Scientist
+DEPARTMENT: Data Science
+SALARY: 110000
+PROJECTS: Machine Learning Models, Predictive Analytics
+CERTIFICATIONS: TensorFlow, Python
+SKILLS: Python, R, Machine Learning, Data Visualization
+
+ID: 110
+NAME: Julia White
+POSITION: HR Manager
+DEPARTMENT: Human Resources
+SALARY: 78000
+PROJECTS: Employee Engagement, Recruiting Campaign
+CERTIFICATIONS: SHRM-CP, HRIS
+SKILLS: HR Management, Employee Relations, Recruiting
