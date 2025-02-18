@@ -26,6 +26,20 @@ public class Employee
         CERTIFICATIONS = certifications;
         SKILLS = skills;
     }
+    public Employee(string id,
+        string name,
+        string position,
+        string department,
+        string salary,
+        string projects)
+    {
+        ID = id;
+        NAME = name;
+        POSITION = position;
+        DEPARTMENT = department;
+        SALARY = salary;
+        PROJECTS = projects;
+    }
     public string ID { get; set; }
     public string NAME { get; set; }
     public string POSITION { get; set; }

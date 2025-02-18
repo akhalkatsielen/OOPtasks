@@ -1,0 +1,69 @@
+ID: 101
+NAME: Alice
+POSITION: Software
+DEPARTMENT: IT
+SALARY: 800
+PROJECTS: Project A
+
+ID: 102
+NAME: Bob Brown
+POSITION: Data
+DEPARTMENT: Marketing
+SALARY: 65000
+PROJECTS: Marketing
+
+ID: 103
+NAME: Charlie
+POSITION: Product
+DEPARTMENT: Product
+SALARY: 95000
+PROJECTS: Product
+
+ID: 104
+NAME: Diana White
+POSITION: UX Designer
+DEPARTMENT: Design
+SALARY: 75000
+PROJECTS: Website
+
+ID: 105
+NAME: Edward
+POSITION: System
+DEPARTMENT: IT
+SALARY: 70000
+PROJECTS: Server
+
+ID: 106
+NAME: Fiona Green
+POSITION: Marketing Manager
+DEPARTMENT: Marketing
+SALARY: 85000
+PROJECTS: Digital
+
+ID: 107
+NAME: George King
+POSITION: Senior Developer
+DEPARTMENT: IT
+SALARY: 100000
+PROJECTS: Cloud
+
+ID: 108
+NAME: Hannah Gray
+POSITION: Business Analyst
+DEPARTMENT: Business Operations
+SALARY: 70000
+PROJECTS: Processsis
+
+ID: 109
+NAME: Ian Purple
+POSITION: Data Scientist
+DEPARTMENT: Data Science
+SALARY: 110000
+PROJECTS: Machine
+
+ID: 110
+NAME: Julia White
+POSITION: HR Manager
+DEPARTMENT: Human Resources
+SALARY: 78000
+PROJECTS: Employee
