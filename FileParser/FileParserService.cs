@@ -60,10 +60,10 @@ public static class FileParserService
     public static void CreateTableStyledTXT(int columns, int rows, int length)
     {
         int rowsCount = 2 * rows + 1;
-        int colCount = length * columns + columns + 1;
+        int colCount = length * columns + columns + 1;  //col*(length+1) + 1
         for (int i = 1; i <= rowsCount; i++) 
         {
-            if (i % 2 == 1)
+            if (i % 2 == 1) // + - 
             {
                 for (int j = 1; j <= colCount; j++)
                 {
@@ -71,7 +71,7 @@ public static class FileParserService
                     else Console.Write("-");
                 }
             }
-            else 
+            else // |
             { 
                 for(int j = 1; j <= colCount; j++)
                 {
