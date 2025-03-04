@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract", "Abstract\Abstract.csproj", "{9EDC98FC-3C88-497F-A4CD-86012A487B88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileParser", "FileParser\FileParser.csproj", "{C262E377-BADE-49D5-9170-24A34D04A557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileParser", "FileParser\FileParser.csproj", "{C262E377-BADE-49D5-9170-24A34D04A557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeApp", "WelcomeApp\WelcomeApp.csproj", "{EB2474A6-8DD2-4140-83AB-CA208193A0D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C262E377-BADE-49D5-9170-24A34D04A557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C262E377-BADE-49D5-9170-24A34D04A557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C262E377-BADE-49D5-9170-24A34D04A557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2474A6-8DD2-4140-83AB-CA208193A0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2474A6-8DD2-4140-83AB-CA208193A0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2474A6-8DD2-4140-83AB-CA208193A0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2474A6-8DD2-4140-83AB-CA208193A0D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
